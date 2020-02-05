@@ -1,0 +1,40 @@
+
+.header
+{
+    border: 3px;
+    border-color: black;
+    background-color: bisque;
+    margin-top: 4px;
+    border-style: solid;
+}
+
+.footer
+{
+    border: 2px;
+    border-color: black;
+    background-color: bisque;
+    margin-bottom: 4px;
+    border-style: solid;
+
+}
+
+.block
+{
+    border: 2px;
+    border-style: groove;
+    align-content: center;
+    width: 30%;
+    height: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: cadetblue;
+    
+}
+
+.marquee_top
+{
+
+    color: red; 
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}
